@@ -1,0 +1,87 @@
+:root{
+    --purple:#937DC2;
+    --p1:#C689C6;
+    --p2:#FFABE1;
+    --p3:#FFE6F7;
+}
+aside.links{
+
+    background-color:var(--p1);
+    color: brown;
+    width:10%;
+    padding-left:1%;
+    text-align: left;
+    font-size: 20px;
+}
+aside.info{
+    text-align: right;
+    background-color: var(--p2);
+    width:40%;
+    padding-right:1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    
+}
+
+span.line1{
+    font-size: medium;
+    
+}
+span.line2{
+    font-size: medium;
+}
+span.line3{
+    font-size: medium;
+}
+span.goodat{
+    font-size: x-large;
+}
+span.techk{
+    font-size: x-large;
+}
+span.Language{
+    font-size: x-large;
+}
+
+span.school{
+    font-size: x-large;
+    
+}
+span.btech{
+    font-size: x-large;
+}
+span.ncsc{
+    font-size: x-large;
+}
+main{
+    text-align: center;
+    background-color:var(--purple);
+    width:50%;
+    
+}
+span.education{
+    font-size: x-large;
+}
+
+
+body{
+    background-image: url(bg_image4.png);
+    background-color: aqua;
+    color:brown;
+    padding-top: 20px;
+    padding-left:0;
+    padding-right: 0;
+    padding-bottom: 0;
+    margin:0;
+    
+}
+div{
+    display: flex;
+}
+
+  footer {
+    color: gold;
+    text-align: center;
+    font-size: xx-large;
+    
+  }
