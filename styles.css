@@ -4,6 +4,7 @@
     --p2:#FFABE1;
     --p3:#FFE6F7;
 }
+
 aside.links{
 
     background-color:var(--p1);
@@ -14,7 +15,7 @@ aside.links{
     font-size: 20px;
 }
 aside.info{
-    text-align: right;
+    text-align: left;
     background-color: var(--p2);
     width:40%;
     padding-right:1%;
